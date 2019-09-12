@@ -31,7 +31,7 @@ $ node server.js
     + 404 not found
     + Error
 
-![Screen Shot](img/leagues.png?raw=true "Screen Shot")
+![Screen Shot](./public/img/leagues.png "Screen Shot")
 
 ## Useful link(s)
 * [hbs](https://www.npmjs.com/package/hbs)
